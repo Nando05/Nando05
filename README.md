@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nando05
-- 👀 I’m interested in becoming a Software or Cloud engineer. 
-- 🌱 I’m currently learning Python, and also learning a little bit about Java.
+- 👀 I’m interested in becoming a Cloud engineer. 
+- 🌱 I’m currently learning Python, Docker, K9s, CI/CD structure (YAML).
 - 💞️ I’m looking to collaborate on Everything my knowledge can collaborate with. Feel free to reach out to me!
 - 📫 How to reach me: you can leave a message here or you can use LinkedIn https://www.linkedin.com/in/hernandogallego/
 
